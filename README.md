@@ -13,7 +13,8 @@ provided by the course.
     Implements a program for determining a degree of separation  between any
     given actors (i.e., the shortest sequence of movies that connects them)
 
-+ [Sliding Puzzle](0_search/sliding_puzzle/sliding_puzzle.py)
++ [Sliding Puzzle](0_search/sliding_puzzle/sliding_puzzle.py) (not a part of
+  course assignments)
 
     Implements an AI to play the [sliding
     puzzle](https://en.wikipedia.org/wiki/Sliding_puzzle)
