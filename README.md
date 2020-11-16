@@ -1,2 +1,2 @@
 # cs50ai-solutions
-My to CS50AI Assignments
+My solutions to CS50AI Assignments
