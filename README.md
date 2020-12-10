@@ -31,11 +31,17 @@ provided by the course.
 
     Implements a program to solve logic puzzles
 
-+ [Minesweeper](1_search/minesweeper/minesweeper.py)
++ [Minesweeper](1_knowledge/minesweeper/minesweeper.py)
 
     Implements an AI to play Minesweeper
 
 ## 2. Uncertainty
+### Projects
+
++ [Pagerank](2_uncertainty/pagerank/pagerank.py)
+
+
++ [Heredity](2_uncertainty/heredity/heredity.py)
 
 ## 3. Optimization
 
